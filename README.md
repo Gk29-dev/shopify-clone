@@ -46,7 +46,7 @@
 ***
 <br>
 
-### How the PAYTM Clone is looking
+### How the Shopify Clone is looking
 
 <br>
 
