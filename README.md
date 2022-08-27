@@ -41,7 +41,7 @@
 
 ***
 
-### Checkout the webiste : [Click Here](https://the-paytm.netlify.app/)
+### Checkout the webiste : [Click Here](https://the-shopify.netlify.app/)
 
 ***
 <br>
